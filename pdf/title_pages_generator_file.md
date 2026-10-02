@@ -1,5 +1,8 @@
-Alojamiento
-Vuelo
-Taxis y bus
+Memoria
+Liquidación
+Solicitud anticipo
 Inscripción congreso
-Certificado titularidad
+Aceptación comunicado
+Transporte - Vuelos
+Transporte - Taxis y bus
+Certificado titularidad cuentas
