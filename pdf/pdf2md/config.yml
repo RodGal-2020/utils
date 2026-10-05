@@ -1,0 +1,4 @@
+pdf_dir: ./raw
+txt_dir: ./processed
+retry_fallback: false
+single_pdf_timeout: 300
